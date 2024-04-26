@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desenvolver uma API REST utilizando Express.js para gerenciar uma lista de funcionários, permitindo operações CRUD e consultas específicas.
+Nesta prova da matéria de backend, tivemos como objetivo desenvolver uma API REST utilizando Express.js para gerenciar uma lista de funcionários, permitindo operações CRUD e consultas específicas.
 
 ## Tecnologias
 
