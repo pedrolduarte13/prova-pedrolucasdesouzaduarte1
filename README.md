@@ -9,6 +9,7 @@ Nesta prova da matéria de backend, tivemos como objetivo desenvolver uma API RE
 - Node.js
 - Express.js
 - Nodemon
+- JavaScript
 
 ## Requisitos
 
